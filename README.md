@@ -35,6 +35,8 @@ aws configure
 
 - **Provided: Access Key ID, Secret Access Key, Region, Output format**
 
+  ---
+
 
 ### 📸 Screenshots of my project
 
@@ -43,8 +45,6 @@ aws configure
 
 
 **✅ Verified AWS Identity using:**
-```bash
-aws sts get-caller-identity
 ![image](https://github.com/user-attachments/assets/21193d1d-e6f7-4eaf-a995-107362c937d5)
 
 
