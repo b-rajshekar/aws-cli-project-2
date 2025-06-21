@@ -87,25 +87,6 @@ After creating the bucket, I uploaded a local folder (`beach-photos`) to a speci
 ![Screenshot 2025-06-21 065351](https://github.com/user-attachments/assets/53f6b580-0501-46a8-90ad-1311ea46e813)
 ![Screenshot 2025-06-21 065430](https://github.com/user-attachments/assets/6b997a69-c633-418e-9577-30425136dbf2)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- aws s3 ls output
-- Confirmation of bucket creation
-- Upload success
-
 ---
 
 ### 🧰 Quick AWS CLI Reference
