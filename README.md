@@ -44,6 +44,8 @@ Confirmation of bucket creation
 
 Upload success
 
+---
+
 | Task               | Command                                              |
 | ------------------ | ---------------------------------------------------- |
 | Check AWS version  | `aws --version`                                      |
@@ -54,7 +56,7 @@ Upload success
 | Delete file/folder | `aws s3 rm s3://<bucket-name>/<path> --recursive`    |
 | Delete bucket      | `aws s3 rb s3://<bucket-name> --force`               |
 
-
+---
 
 ✨ Key Takeaways
 AWS CLI enables fast, repeatable cloud operations without GUI
