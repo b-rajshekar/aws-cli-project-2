@@ -35,7 +35,7 @@ aws configure
 # Provided: Access Key ID, Secret Access Key, Region, Output format
 
 
-📸 Screenshots of my project
+### 📸 Screenshots of my project
 
 aws s3 ls output
 
@@ -45,6 +45,8 @@ Confirmation of bucket creation
 Upload success
 
 ---
+
+### 🧰 Quick AWS CLI Reference
 
 | Task               | Command                                              |
 | ------------------ | ---------------------------------------------------- |
