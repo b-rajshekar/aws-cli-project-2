@@ -23,10 +23,10 @@ This project is a part of my cloud learning journey and demonstrates AWS CLI usa
 
 ---
 
-### 📌 Installing and Configuring AWS CLI
+## 📌 Installing and Configuring AWS CLI
 
 Steps performed:
-```bash
+
 # Check AWS CLI version
 aws --version
 
