@@ -35,7 +35,7 @@ aws configure
 
 - **Provided: Access Key ID, Secret Access Key, Region, Output format**
 
-  ---
+---
 
 
 ### 📸 Screenshots of my project
