@@ -40,11 +40,13 @@ aws configure
 
 ### 📸 Screenshots of my project
 
-**✅ Checked the AWS CLI version:**  
+**✅ Checked the AWS CLI version:**
+
 ![Screenshot 2025-06-20 233458](https://github.com/user-attachments/assets/855fa9de-921b-47c9-b8b4-f82fa1847c79)
 
 
 **✅ Verified AWS Identity using:**
+
 ![image](https://github.com/user-attachments/assets/21193d1d-e6f7-4eaf-a995-107362c937d5)
 
 
