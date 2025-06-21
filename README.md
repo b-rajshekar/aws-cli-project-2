@@ -60,9 +60,9 @@ aws configure
 
 ✨ Key Takeaways
 
-AWS CLI enables fast, repeatable cloud operations without GUI
+- AWS CLI enables fast, repeatable cloud operations without GUI
 
-IAM credentials are critical for access control and security
+- IAM credentials are critical for access control and security
 
-You can manage full lifecycle of S3 buckets from terminal
+- You can manage full lifecycle of S3 buckets from terminal
 
