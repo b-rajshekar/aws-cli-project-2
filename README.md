@@ -50,6 +50,13 @@ aws configure
 ![image](https://github.com/user-attachments/assets/21193d1d-e6f7-4eaf-a995-107362c937d5)
 
 
+**✅ Created an S3 Bucket using AWS CLI**
+
+![Screenshot 2025-06-21 055559](https://github.com/user-attachments/assets/1a0bafae-ff96-42d0-b754-aa0f1ae31bf5)
+![Screenshot 2025-06-21 055608](https://github.com/user-attachments/assets/608ccda8-ff65-4b4e-b7e0-67e3eecd677b)
+
+
+
 
 
 
