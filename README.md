@@ -27,12 +27,13 @@ This project is a part of my cloud learning journey and demonstrates AWS CLI usa
 
 Steps performed:
 
-# Check AWS CLI version
+- **Check AWS CLI version**
 aws --version
 
-# Configure AWS credentials
+- **Configure AWS credentials**
 aws configure
-# Provided: Access Key ID, Secret Access Key, Region, Output format
+
+- **Provided: Access Key ID, Secret Access Key, Region, Output format**
 
 
 ### 📸 Screenshots of my project
