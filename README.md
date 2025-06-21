@@ -38,6 +38,10 @@ aws configure
 
 ### 📸 Screenshots of my project
 
+- checked the aws cli version
+  ![Screenshot 2025-06-20 233458](https://github.com/user-attachments/assets/855fa9de-921b-47c9-b8b4-f82fa1847c79)
+
+
 - aws s3 ls output
 - Confirmation of bucket creation
 - Upload success
