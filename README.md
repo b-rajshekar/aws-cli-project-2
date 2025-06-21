@@ -37,12 +37,9 @@ aws configure
 
 ### 📸 Screenshots of my project
 
-aws s3 ls output
-
-
-Confirmation of bucket creation
-
-Upload success
+- `aws s3 ls` output
+- Confirmation of bucket creation
+- Upload success
 
 ---
 
